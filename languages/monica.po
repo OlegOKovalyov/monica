@@ -1,0 +1,3125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monica\n"
+"POT-Creation-Date: 2016-02-21 13:45+0700\n"
+"PO-Revision-Date: 2016-03-09 08:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: VASCA <vascathemes@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./.\n"
+
+#: comments.php:19
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "Add your comment"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:57
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:59
+msgid "E-Mail (required)"
+msgstr ""
+
+#: comments.php:61
+msgid "Website"
+msgstr ""
+
+#: comments.php:69
+msgid "Comment"
+msgstr ""
+
+#: comments.php:70 woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr ""
+
+#: footer.php:80
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:82
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:84
+msgid "LinkedIn"
+msgstr ""
+
+#: footer.php:86
+msgid "Google Plus"
+msgstr ""
+
+#: footer.php:88
+msgid "Youtube"
+msgstr ""
+
+#: footer.php:90
+msgid "Flickr"
+msgstr ""
+
+#: footer.php:92
+msgid "Vimeo"
+msgstr ""
+
+#: footer.php:94
+msgid "Dribbble"
+msgstr ""
+
+#: footer.php:96
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:98
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:100
+msgid "RSS"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:453
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:461
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:477
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/enqueue.php:496
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/admin/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:228
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:228
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:232
+#: framework/admin/ReduxCore/framework.php:236
+msgid "Options"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1753
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1758
+#: framework/pagebuilder/map.php:137 framework/pagebuilder/map.php:317
+#: framework/pagebuilder/map.php:468 framework/pagebuilder/map.php:661
+#: framework/pagebuilder/map.php:859 framework/pagebuilder/map.php:1143
+#: framework/pagebuilder/map.php:1436
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1764
+msgid "moving the mouse over"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1766
+msgid "clicking"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1770
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1775
+msgid "Hints"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:1902 framework/cmb2/functions.php:46
+#: framework/cmb2/includes/CMB2_JS.php:87 framework/pagebuilder/map.php:1029
+#: framework/pagebuilder/map.php:1428
+msgid "Default"
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:2784
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:2793
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:2869
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:3962
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: framework/admin/ReduxCore/framework.php:3977
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:31
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: framework/admin/ReduxCore/inc/class.redux_filesystem.php:271
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+msgid "Options Object"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:124
+#: framework/admin/ReduxCore/inc/fields/color/field_color.php:73
+#: framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:277
+#: framework/admin/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:314
+#: framework/admin/ReduxCore/inc/fields/media/field_media.php:198
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:126
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/background/field_background.php:321
+#: framework/admin/ReduxCore/inc/fields/media/field_media.php:205
+#: framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:133
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:190
+#: framework/cmb2/includes/CMB2_JS.php:138
+#: framework/cmb2/includes/CMB2_Types.php:357
+#: framework/cmb2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:125
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: page-portfolio.php:50
+msgid "All"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:138
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#: framework/pagebuilder/map.php:273
+msgid "Top"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:145
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:152
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:159
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:100
+#: framework/theme-plugins.php:2267
+msgid "Active"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/select/field_select.php:83
+#: framework/admin/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/select/field_select.php:134
+#: framework/admin/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:73
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:145
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:200
+#: framework/pagebuilder/map.php:437 framework/pagebuilder/map.php:588
+#: framework/pagebuilder/map.php:629 framework/pagebuilder/map.php:786
+#: framework/pagebuilder/map.php:831 framework/pagebuilder/map.php:1000
+#: framework/pagebuilder/map.php:1065 framework/pagebuilder/map.php:1263
+#: framework/pagebuilder/map.php:1326 framework/pagebuilder/map.php:1578
+#: framework/pagebuilder/map.php:1626 framework/pagebuilder/woocommerce.php:83
+#: framework/pagebuilder/woocommerce.php:459
+#: framework/pagebuilder/woocommerce.php:495
+#: framework/pagebuilder/woocommerce.php:558
+#: framework/pagebuilder/woocommerce.php:681
+msgid "Title"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:149
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:204
+#: framework/pagebuilder/map.php:593 framework/pagebuilder/map.php:635
+#: framework/pagebuilder/map.php:791 framework/pagebuilder/map.php:836
+#: framework/pagebuilder/map.php:1070
+msgid "Description"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:153
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:167
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:258
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:273
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:281
+#: framework/pagebuilder/map.php:306 framework/pagebuilder/map.php:796
+#: framework/pagebuilder/map.php:1026 framework/pagebuilder/map.php:1132
+#: framework/pagebuilder/map.php:1425 framework/pagebuilder/map.php:1641
+#: framework/pagebuilder/map.php:1688 framework/pagebuilder/woocommerce.php:185
+msgid "Style"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:342
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:343
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:365
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:366
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:388
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:389
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:408
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:409
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:432
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:433
+#: framework/pagebuilder/map.php:1590
+msgid "Size"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:441
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:450
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:459
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/color/validation_color.php:15
+#: framework/admin/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: framework/admin/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/email/validation_email.php:16
+#: framework/admin/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: framework/admin/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:8
+#: framework/admin/ReduxCore/inc/welcome/views/changelog.php:10
+#: framework/admin/ReduxCore/inc/welcome/views/credits.php:10
+#: framework/admin/ReduxCore/inc/welcome/views/extensions.php:81
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:34
+#: framework/admin/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:482
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/welcome.php:351
+msgid "Credits"
+msgstr ""
+
+#: framework/admin/ReduxCore/inc/welcome/welcome.php:514
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/footer.tpl.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/footer.tpl.php:61
+msgid "Reset Section"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/footer.tpl.php:62
+msgid "Reset All"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/footer.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:11
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: framework/admin/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: framework/admin/config/config.php:35 framework/admin/config/config.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/config/config.php:135
+msgid "Documentation"
+msgstr ""
+
+#: framework/admin/config/config.php:139
+msgid "Support"
+msgstr ""
+
+#: framework/admin/config/config.php:179
+msgid "General"
+msgstr ""
+
+#: framework/admin/config/config.php:186
+msgid "Branding"
+msgstr ""
+
+#: framework/admin/config/config.php:194
+msgid "Site Favicon"
+msgstr ""
+
+#: framework/admin/config/config.php:196
+msgid ""
+"Upload any media using the WordPress native uploader. Minimum size 200x200 px"
+msgstr ""
+
+#: framework/admin/config/config.php:202
+msgid "Logo for White Background"
+msgstr ""
+
+#: framework/admin/config/config.php:204 framework/admin/config/config.php:213
+#: framework/admin/config/config.php:377 framework/admin/config/config.php:493
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: framework/admin/config/config.php:211
+msgid "Logo for Black Background"
+msgstr ""
+
+#: framework/admin/config/config.php:219
+msgid "Enter your logo dimensions display for all devices"
+msgstr ""
+
+#: framework/admin/config/config.php:222
+msgid "Logo Dimensions"
+msgstr ""
+
+#: framework/admin/config/config.php:234
+msgid "Logo Spacing"
+msgstr ""
+
+#: framework/admin/config/config.php:242
+msgid "Margin top and bottom in pixel"
+msgstr ""
+
+#: framework/admin/config/config.php:247
+msgid "Social"
+msgstr ""
+
+#: framework/admin/config/config.php:254
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/config/config.php:255
+msgid "Enter your Facebook username"
+msgstr ""
+
+#: framework/admin/config/config.php:261
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/admin/config/config.php:262
+msgid "Enter your Twitter username"
+msgstr ""
+
+#: framework/admin/config/config.php:268
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/admin/config/config.php:269 framework/admin/config/config.php:276
+#: framework/admin/config/config.php:283 framework/admin/config/config.php:290
+#: framework/admin/config/config.php:297 framework/admin/config/config.php:304
+#: framework/admin/config/config.php:311 framework/admin/config/config.php:318
+msgid "This must be a URL."
+msgstr ""
+
+#: framework/admin/config/config.php:275
+msgid "Google Plus URL"
+msgstr ""
+
+#: framework/admin/config/config.php:282
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/admin/config/config.php:289
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/admin/config/config.php:296
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/admin/config/config.php:303
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/admin/config/config.php:310
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/admin/config/config.php:317
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/admin/config/config.php:324
+msgid "Show RSS Link"
+msgstr ""
+
+#: framework/admin/config/config.php:332 framework/admin/config/config.php:338
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/config/config.php:345
+msgid "Preloader"
+msgstr ""
+
+#: framework/admin/config/config.php:353
+msgid "Responsive Design"
+msgstr ""
+
+#: framework/admin/config/config.php:361
+msgid "Layout Style"
+msgstr ""
+
+#: framework/admin/config/config.php:362
+msgid "Choose your layout style"
+msgstr ""
+
+#: framework/admin/config/config.php:375
+msgid "Layout Background"
+msgstr ""
+
+#: framework/admin/config/config.php:383
+msgid "Header"
+msgstr ""
+
+#: framework/admin/config/config.php:391
+msgid "Cart Menu"
+msgstr ""
+
+#: framework/admin/config/config.php:395
+msgid "Enable cart menu fuction"
+msgstr ""
+
+#: framework/admin/config/config.php:401
+msgid "Search Menu"
+msgstr ""
+
+#: framework/admin/config/config.php:405
+msgid "Enable header search"
+msgstr ""
+
+#: framework/admin/config/config.php:411
+msgid "Header Social"
+msgstr ""
+
+#: framework/admin/config/config.php:415
+msgid "Display Social Media Link"
+msgstr ""
+
+#: framework/admin/config/config.php:421
+msgid "Header Notice"
+msgstr ""
+
+#: framework/admin/config/config.php:431
+msgid "Phone Number"
+msgstr ""
+
+#: framework/admin/config/config.php:439
+#: woocommerce/single-product-reviews.php:74
+msgid "Email"
+msgstr ""
+
+#: framework/admin/config/config.php:447
+msgid "Working Time"
+msgstr ""
+
+#: framework/admin/config/config.php:454
+msgid "Heading"
+msgstr ""
+
+#: framework/admin/config/config.php:462
+msgid "Page Heading Size"
+msgstr ""
+
+#: framework/admin/config/config.php:463
+msgid "Choose your page heading layout size"
+msgstr ""
+
+#: framework/admin/config/config.php:475
+msgid "Page Heading Background Color"
+msgstr ""
+
+#: framework/admin/config/config.php:476
+msgid "Choose your page heading background color"
+msgstr ""
+
+#: framework/admin/config/config.php:491
+msgid "Page Heading Background"
+msgstr ""
+
+#: framework/admin/config/config.php:500
+msgid "Page Heading Text Color"
+msgstr ""
+
+#: framework/admin/config/config.php:501
+msgid "Choose your page heading text color"
+msgstr ""
+
+#: framework/admin/config/config.php:512
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/config/config.php:519
+msgid "Use Footer Widget ?"
+msgstr ""
+
+#: framework/admin/config/config.php:527
+msgid "Footer Widget 1 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:528
+msgid "Select your footer widget 1 width."
+msgstr ""
+
+#: framework/admin/config/config.php:539
+msgid "Footer Widget 2 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:540
+msgid "Select your footer widget 2 width."
+msgstr ""
+
+#: framework/admin/config/config.php:551
+msgid "Footer Widget 3 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:552
+msgid "Select your footer widget 3 width."
+msgstr ""
+
+#: framework/admin/config/config.php:563
+msgid "Footer Widget 4 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:564
+msgid "Select your footer widget 4 width."
+msgstr ""
+
+#: framework/admin/config/config.php:575
+msgid "Footer Widget 5 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:576
+msgid "Select your footer widget 5 width."
+msgstr ""
+
+#: framework/admin/config/config.php:587
+msgid "Footer Widget 6 Width"
+msgstr ""
+
+#: framework/admin/config/config.php:588
+msgid "Select your footer widget 6 width."
+msgstr ""
+
+#: framework/admin/config/config.php:599
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/admin/config/config.php:607 framework/pagebuilder/map.php:444
+#: framework/pagebuilder/map.php:1038 framework/pagebuilder/map.php:1270
+#: framework/pagebuilder/map.php:1332 framework/pagebuilder/map.php:1380
+msgid "Content"
+msgstr ""
+
+#: framework/admin/config/config.php:613 framework/pagebuilder/map.php:1675
+#: heading.php:64
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/config/config.php:620
+msgid "Main Post Layout"
+msgstr ""
+
+#: framework/admin/config/config.php:621
+msgid "Choose your Default Blog Layout"
+msgstr ""
+
+#: framework/admin/config/config.php:633
+msgid "Main Post Columns"
+msgstr ""
+
+#: framework/admin/config/config.php:634
+msgid "Select columns to display"
+msgstr ""
+
+#: framework/admin/config/config.php:645
+msgid "Main Blog Sidebar"
+msgstr ""
+
+#: framework/admin/config/config.php:646 framework/admin/config/config.php:698
+msgid "Choose your default blog sidebar"
+msgstr ""
+
+#: framework/admin/config/config.php:657
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: framework/admin/config/config.php:658
+msgid "Default: 30"
+msgstr ""
+
+#: framework/admin/config/config.php:659
+msgid "Used for blog page, archives & search results."
+msgstr ""
+
+#: framework/admin/config/config.php:666 framework/admin/config/config.php:708
+msgid "Show Comment ?"
+msgstr ""
+
+#: framework/admin/config/config.php:674
+msgid "Show Recent Posts ?"
+msgstr ""
+
+#: framework/admin/config/config.php:682
+msgid "Show Author Box ?"
+msgstr ""
+
+#: framework/admin/config/config.php:690 framework/theme-functions.php:446
+#: page.php:36 single-portfolio.php:45 single.php:44
+msgid "Page"
+msgstr ""
+
+#: framework/admin/config/config.php:697
+msgid "Main Page Sidebar"
+msgstr ""
+
+#: framework/admin/config/config.php:716 framework/pagebuilder/map.php:1610
+msgid "Portfolio"
+msgstr ""
+
+#: framework/admin/config/config.php:723
+msgid "Portfolio Columns"
+msgstr ""
+
+#: framework/admin/config/config.php:724 framework/admin/config/config.php:736
+msgid "Choose default portfolio columns"
+msgstr ""
+
+#: framework/admin/config/config.php:735
+msgid "Portfolio Wrap"
+msgstr ""
+
+#: framework/admin/config/config.php:746
+msgid "Portfolio Gutter Style"
+msgstr ""
+
+#: framework/admin/config/config.php:747 framework/admin/config/config.php:758
+msgid "Choose default portfolio style"
+msgstr ""
+
+#: framework/admin/config/config.php:757 framework/cmb2/functions.php:457
+#: framework/pagebuilder/map.php:1622
+msgid "Portfolio Style"
+msgstr ""
+
+#: framework/admin/config/config.php:768
+msgid "Portfolio Slug"
+msgstr ""
+
+#: framework/admin/config/config.php:769
+msgid ""
+"Enter the URL Slug for your Portfolio (Default: portfolio-item) <br /"
+"><strong>Go save your permalinks after changing this.</strong>"
+msgstr ""
+
+#: framework/admin/config/config.php:775
+msgid "Custom Category Slug"
+msgstr ""
+
+#: framework/admin/config/config.php:776
+msgid ""
+"Enter the Category Taxonomy Slug for your Portfolio (Default: "
+"portfolio_category) <br /><strong>Go save your permalinks after changing "
+"this.</strong>"
+msgstr ""
+
+#: framework/admin/config/config.php:782
+msgid "Custom Tag Slug"
+msgstr ""
+
+#: framework/admin/config/config.php:783
+msgid ""
+"Enter the Tag Taxonomy Slug for your Portfolio (Default: portfolio_tag) <br /"
+"><strong>Go save your permalinks after changing this.</strong>"
+msgstr ""
+
+#: framework/admin/config/config.php:791
+msgid "Design"
+msgstr ""
+
+#: framework/admin/config/config.php:797
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/config/config.php:804
+msgid "Body Font"
+msgstr ""
+
+#: framework/admin/config/config.php:805
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:821
+msgid "Heading 1"
+msgstr ""
+
+#: framework/admin/config/config.php:822
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:838
+msgid "Heading 2"
+msgstr ""
+
+#: framework/admin/config/config.php:839
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:855
+msgid "Heading 3"
+msgstr ""
+
+#: framework/admin/config/config.php:856
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:872
+msgid "Heading 4"
+msgstr ""
+
+#: framework/admin/config/config.php:873
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:889
+msgid "Heading 5"
+msgstr ""
+
+#: framework/admin/config/config.php:890
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:906
+msgid "Heading 6"
+msgstr ""
+
+#: framework/admin/config/config.php:907
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: framework/admin/config/config.php:923 framework/pagebuilder/map.php:123
+msgid "Theme Color"
+msgstr ""
+
+#: framework/admin/config/config.php:930
+msgid "Main Background Color"
+msgstr ""
+
+#: framework/admin/config/config.php:931
+msgid "Pick a background color for the main site."
+msgstr ""
+
+#: framework/admin/config/config.php:942
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/config/config.php:949
+msgid "CSS Code"
+msgstr ""
+
+#: framework/admin/config/config.php:950
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/admin/config/config.php:958
+msgid "Sidebar"
+msgstr ""
+
+#: framework/admin/config/config.php:965
+msgid "Sidebar Generator"
+msgstr ""
+
+#: framework/admin/config/config.php:966
+msgid "Enter the name of the sidebar you want to create"
+msgstr ""
+
+#: framework/cmb2/functions.php:54
+msgid "Media Post Format Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:67 framework/cmb2/functions.php:384
+msgid "Media URL"
+msgstr ""
+
+#: framework/cmb2/functions.php:68 framework/cmb2/functions.php:385
+msgid ""
+"Insert custom media URL Video & Audio Posts. Vimeo, Youtube and Sound Cloud"
+msgstr ""
+
+#: framework/cmb2/functions.php:73
+msgid "Custom Media URL"
+msgstr ""
+
+#: framework/cmb2/functions.php:74
+msgid "Insert custom media URL Video & Audio Posts"
+msgstr ""
+
+#: framework/cmb2/functions.php:82
+msgid "Quotes Post Format Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:89
+msgid "Quote Content"
+msgstr ""
+
+#: framework/cmb2/functions.php:97
+msgid "Gallery Post Format Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:110
+msgid "Gallery Style"
+msgstr ""
+
+#: framework/cmb2/functions.php:114
+msgid "Slider"
+msgstr ""
+
+#: framework/cmb2/functions.php:115 framework/pagebuilder/map.php:1693
+msgid "Masonry"
+msgstr ""
+
+#: framework/cmb2/functions.php:123
+msgid "Link Post Format Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:130
+msgid "Post Link"
+msgstr ""
+
+#: framework/cmb2/functions.php:139
+msgid "Heading Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:146
+msgid "Hidden Heading"
+msgstr ""
+
+#: framework/cmb2/functions.php:151
+msgid "Heading Title"
+msgstr ""
+
+#: framework/cmb2/functions.php:156
+msgid "Heading Description"
+msgstr ""
+
+#: framework/cmb2/functions.php:161
+msgid "Heading Size"
+msgstr ""
+
+#: framework/cmb2/functions.php:172
+msgid "Background Color"
+msgstr ""
+
+#: framework/cmb2/functions.php:190
+msgid "Heading Background"
+msgstr ""
+
+#: framework/cmb2/functions.php:200
+msgid "Heading Text Color"
+msgstr ""
+
+#: framework/cmb2/functions.php:214
+msgid "Header Position"
+msgstr ""
+
+#: framework/cmb2/functions.php:224
+msgid "Header Color"
+msgstr ""
+
+#: framework/cmb2/functions.php:237
+msgid "Sidebar Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:244
+msgid "Choose Widgets Sidebar"
+msgstr ""
+
+#: framework/cmb2/functions.php:251
+msgid "Choose Sidebar Layout"
+msgstr ""
+
+#: framework/cmb2/functions.php:255
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/cmb2/functions.php:256
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/cmb2/functions.php:257
+msgid "Full Page"
+msgstr ""
+
+#: framework/cmb2/functions.php:262
+msgid "100% Page Width"
+msgstr ""
+
+#: framework/cmb2/functions.php:271
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:278
+msgid "Portfolio Layout"
+msgstr ""
+
+#: framework/cmb2/functions.php:291
+msgid "Portfolio Format"
+msgstr ""
+
+#: framework/cmb2/functions.php:303
+msgid "Media Position"
+msgstr ""
+
+#: framework/cmb2/functions.php:313
+msgid "Section Style"
+msgstr ""
+
+#: framework/cmb2/functions.php:327 framework/pagebuilder/map.php:1631
+msgid "Gutter Style"
+msgstr ""
+
+#: framework/cmb2/functions.php:342
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:358
+msgid "Number of Slider"
+msgstr ""
+
+#: framework/cmb2/functions.php:397
+msgid "Meta {#}"
+msgstr ""
+
+#: framework/cmb2/functions.php:398
+msgid "Add Another Meta"
+msgstr ""
+
+#: framework/cmb2/functions.php:399
+msgid "Remove Meta"
+msgstr ""
+
+#: framework/cmb2/functions.php:404
+msgid "Meta Title"
+msgstr ""
+
+#: framework/cmb2/functions.php:409
+msgid "Meta Content"
+msgstr ""
+
+#: framework/cmb2/functions.php:417
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:424
+msgid "Gutter"
+msgstr ""
+
+#: framework/cmb2/functions.php:435 framework/pagebuilder/map.php:1661
+#: framework/pagebuilder/map.php:1709 framework/pagebuilder/map.php:1739
+#: framework/pagebuilder/woocommerce.php:143
+#: framework/pagebuilder/woocommerce.php:202
+msgid "Columns"
+msgstr ""
+
+#: framework/cmb2/functions.php:447
+msgid "Portfolio Item Style"
+msgstr ""
+
+#: framework/cmb2/functions.php:467
+msgid "Portfolio Number"
+msgstr ""
+
+#: framework/cmb2/functions.php:473
+msgid "Portfolio Filter"
+msgstr ""
+
+#: framework/cmb2/functions.php:481
+msgid "Blog Page Settings"
+msgstr ""
+
+#: framework/cmb2/functions.php:488
+msgid "Blog Style"
+msgstr ""
+
+#: framework/cmb2/functions.php:499
+msgid "Blog Columns"
+msgstr ""
+
+#: framework/cmb2/functions.php:510
+msgid "Blog Item"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:978
+#: framework/cmb2/includes/CMB2_Field.php:982 framework/pagebuilder/map.php:297
+msgid "None"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:86
+#: framework/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:118
+#: framework/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:137
+#: framework/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:139
+#: framework/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:140
+#: framework/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:749
+#: framework/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: framework/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: framework/pagebuilder/map.php:93
+msgid "Button"
+msgstr ""
+
+#: framework/pagebuilder/map.php:96 framework/pagebuilder/map.php:290
+#: framework/pagebuilder/map.php:462 framework/pagebuilder/map.php:655
+#: framework/pagebuilder/map.php:817 framework/pagebuilder/map.php:853
+#: framework/pagebuilder/map.php:996 framework/pagebuilder/map.php:1022
+#: framework/pagebuilder/map.php:1056 framework/pagebuilder/map.php:1097
+#: framework/pagebuilder/map.php:1128 framework/pagebuilder/map.php:1298
+#: framework/pagebuilder/map.php:1352 framework/pagebuilder/map.php:1400
+#: framework/pagebuilder/map.php:1421 framework/pagebuilder/map.php:1568
+msgid "monica_theme"
+msgstr ""
+
+#: framework/pagebuilder/map.php:100
+msgid "Button Size"
+msgstr ""
+
+#: framework/pagebuilder/map.php:103 framework/pagebuilder/map.php:114
+#: framework/pagebuilder/map.php:309 framework/pagebuilder/map.php:799
+#: framework/pagebuilder/map.php:1135 framework/pagebuilder/map.php:1593
+#: framework/pagebuilder/map.php:1636 framework/pagebuilder/woocommerce.php:190
+msgid "Normal"
+msgstr ""
+
+#: framework/pagebuilder/map.php:104 framework/pagebuilder/map.php:1594
+#: framework/pagebuilder/map.php:1635
+msgid "Small"
+msgstr ""
+
+#: framework/pagebuilder/map.php:105 framework/pagebuilder/map.php:1595
+#: framework/pagebuilder/map.php:1692
+msgid "Medium"
+msgstr ""
+
+#: framework/pagebuilder/map.php:106 framework/pagebuilder/map.php:1596
+msgid "Large"
+msgstr ""
+
+#: framework/pagebuilder/map.php:111
+msgid "Button Style"
+msgstr ""
+
+#: framework/pagebuilder/map.php:115 framework/pagebuilder/map.php:300
+msgid "Border"
+msgstr ""
+
+#: framework/pagebuilder/map.php:120
+msgid "Button Color"
+msgstr ""
+
+#: framework/pagebuilder/map.php:124
+msgid "Black"
+msgstr ""
+
+#: framework/pagebuilder/map.php:125 framework/pagebuilder/map.php:1136
+msgid "White"
+msgstr ""
+
+#: framework/pagebuilder/map.php:126
+msgid "Blue"
+msgstr ""
+
+#: framework/pagebuilder/map.php:127
+msgid "Green"
+msgstr ""
+
+#: framework/pagebuilder/map.php:128
+msgid "Red"
+msgstr ""
+
+#: framework/pagebuilder/map.php:129
+msgid "Orange"
+msgstr ""
+
+#: framework/pagebuilder/map.php:130
+msgid "Semi-Blue"
+msgstr ""
+
+#: framework/pagebuilder/map.php:135 framework/pagebuilder/map.php:315
+#: framework/pagebuilder/map.php:466 framework/pagebuilder/map.php:659
+#: framework/pagebuilder/map.php:857 framework/pagebuilder/map.php:1141
+#: framework/pagebuilder/map.php:1434
+msgid "Icon library"
+msgstr ""
+
+#: framework/pagebuilder/map.php:138 framework/pagebuilder/map.php:318
+#: framework/pagebuilder/map.php:469 framework/pagebuilder/map.php:662
+#: framework/pagebuilder/map.php:860 framework/pagebuilder/map.php:1144
+#: framework/pagebuilder/map.php:1437
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/pagebuilder/map.php:139 framework/pagebuilder/map.php:319
+#: framework/pagebuilder/map.php:470 framework/pagebuilder/map.php:663
+#: framework/pagebuilder/map.php:861 framework/pagebuilder/map.php:1145
+#: framework/pagebuilder/map.php:1438
+msgid "Thememify"
+msgstr ""
+
+#: framework/pagebuilder/map.php:140 framework/pagebuilder/map.php:320
+#: framework/pagebuilder/map.php:471 framework/pagebuilder/map.php:664
+#: framework/pagebuilder/map.php:862 framework/pagebuilder/map.php:1146
+#: framework/pagebuilder/map.php:1439
+msgid "Open Iconic"
+msgstr ""
+
+#: framework/pagebuilder/map.php:141 framework/pagebuilder/map.php:321
+#: framework/pagebuilder/map.php:472 framework/pagebuilder/map.php:665
+#: framework/pagebuilder/map.php:863 framework/pagebuilder/map.php:1147
+#: framework/pagebuilder/map.php:1440
+msgid "Typicons"
+msgstr ""
+
+#: framework/pagebuilder/map.php:142 framework/pagebuilder/map.php:322
+#: framework/pagebuilder/map.php:473 framework/pagebuilder/map.php:666
+#: framework/pagebuilder/map.php:864 framework/pagebuilder/map.php:1148
+#: framework/pagebuilder/map.php:1441
+msgid "Entypo"
+msgstr ""
+
+#: framework/pagebuilder/map.php:143 framework/pagebuilder/map.php:323
+#: framework/pagebuilder/map.php:474 framework/pagebuilder/map.php:667
+#: framework/pagebuilder/map.php:865 framework/pagebuilder/map.php:1149
+#: framework/pagebuilder/map.php:1442
+msgid "Linecons"
+msgstr ""
+
+#: framework/pagebuilder/map.php:144 framework/pagebuilder/map.php:324
+#: framework/pagebuilder/map.php:475 framework/pagebuilder/map.php:668
+#: framework/pagebuilder/map.php:866 framework/pagebuilder/map.php:1150
+#: framework/pagebuilder/map.php:1443
+msgid "ET Line"
+msgstr ""
+
+#: framework/pagebuilder/map.php:148 framework/pagebuilder/map.php:328
+#: framework/pagebuilder/map.php:479 framework/pagebuilder/map.php:672
+#: framework/pagebuilder/map.php:870 framework/pagebuilder/map.php:1154
+#: framework/pagebuilder/map.php:1447
+msgid "Select icon library."
+msgstr ""
+
+#: framework/pagebuilder/map.php:152 framework/pagebuilder/map.php:167
+#: framework/pagebuilder/map.php:183 framework/pagebuilder/map.php:198
+#: framework/pagebuilder/map.php:213 framework/pagebuilder/map.php:227
+#: framework/pagebuilder/map.php:242 framework/pagebuilder/map.php:332
+#: framework/pagebuilder/map.php:347 framework/pagebuilder/map.php:363
+#: framework/pagebuilder/map.php:378 framework/pagebuilder/map.php:393
+#: framework/pagebuilder/map.php:407 framework/pagebuilder/map.php:422
+#: framework/pagebuilder/map.php:483 framework/pagebuilder/map.php:498
+#: framework/pagebuilder/map.php:514 framework/pagebuilder/map.php:529
+#: framework/pagebuilder/map.php:544 framework/pagebuilder/map.php:558
+#: framework/pagebuilder/map.php:573 framework/pagebuilder/map.php:676
+#: framework/pagebuilder/map.php:691 framework/pagebuilder/map.php:707
+#: framework/pagebuilder/map.php:722 framework/pagebuilder/map.php:737
+#: framework/pagebuilder/map.php:751 framework/pagebuilder/map.php:766
+#: framework/pagebuilder/map.php:874 framework/pagebuilder/map.php:889
+#: framework/pagebuilder/map.php:905 framework/pagebuilder/map.php:920
+#: framework/pagebuilder/map.php:935 framework/pagebuilder/map.php:949
+#: framework/pagebuilder/map.php:964 framework/pagebuilder/map.php:1158
+#: framework/pagebuilder/map.php:1173 framework/pagebuilder/map.php:1189
+#: framework/pagebuilder/map.php:1204 framework/pagebuilder/map.php:1219
+#: framework/pagebuilder/map.php:1233 framework/pagebuilder/map.php:1248
+#: framework/pagebuilder/map.php:1429 framework/pagebuilder/map.php:1451
+#: framework/pagebuilder/map.php:1466 framework/pagebuilder/map.php:1482
+#: framework/pagebuilder/map.php:1497 framework/pagebuilder/map.php:1512
+#: framework/pagebuilder/map.php:1526 framework/pagebuilder/map.php:1541
+msgid "Icon"
+msgstr ""
+
+#: framework/pagebuilder/map.php:163 framework/pagebuilder/map.php:179
+#: framework/pagebuilder/map.php:194 framework/pagebuilder/map.php:209
+#: framework/pagebuilder/map.php:238 framework/pagebuilder/map.php:253
+#: framework/pagebuilder/map.php:343 framework/pagebuilder/map.php:359
+#: framework/pagebuilder/map.php:374 framework/pagebuilder/map.php:389
+#: framework/pagebuilder/map.php:418 framework/pagebuilder/map.php:433
+#: framework/pagebuilder/map.php:494 framework/pagebuilder/map.php:510
+#: framework/pagebuilder/map.php:525 framework/pagebuilder/map.php:540
+#: framework/pagebuilder/map.php:569 framework/pagebuilder/map.php:584
+#: framework/pagebuilder/map.php:687 framework/pagebuilder/map.php:703
+#: framework/pagebuilder/map.php:718 framework/pagebuilder/map.php:733
+#: framework/pagebuilder/map.php:762 framework/pagebuilder/map.php:777
+#: framework/pagebuilder/map.php:885 framework/pagebuilder/map.php:901
+#: framework/pagebuilder/map.php:916 framework/pagebuilder/map.php:931
+#: framework/pagebuilder/map.php:960 framework/pagebuilder/map.php:975
+#: framework/pagebuilder/map.php:1169 framework/pagebuilder/map.php:1185
+#: framework/pagebuilder/map.php:1200 framework/pagebuilder/map.php:1215
+#: framework/pagebuilder/map.php:1244 framework/pagebuilder/map.php:1259
+#: framework/pagebuilder/map.php:1462 framework/pagebuilder/map.php:1478
+#: framework/pagebuilder/map.php:1493 framework/pagebuilder/map.php:1508
+#: framework/pagebuilder/map.php:1537 framework/pagebuilder/map.php:1552
+msgid "Select icon from library."
+msgstr ""
+
+#: framework/pagebuilder/map.php:257
+msgid "Link URL"
+msgstr ""
+
+#: framework/pagebuilder/map.php:262
+msgid "Link Name"
+msgstr ""
+
+#: framework/pagebuilder/map.php:267
+msgid "Target"
+msgstr ""
+
+#: framework/pagebuilder/map.php:270
+msgid "Blank"
+msgstr ""
+
+#: framework/pagebuilder/map.php:271
+msgid "Self"
+msgstr ""
+
+#: framework/pagebuilder/map.php:272
+msgid "Parent"
+msgstr ""
+
+#: framework/pagebuilder/map.php:278 framework/pagebuilder/map.php:450
+#: framework/pagebuilder/map.php:643 framework/pagebuilder/map.php:805
+#: framework/pagebuilder/map.php:841 framework/pagebuilder/map.php:984
+#: framework/pagebuilder/map.php:1010 framework/pagebuilder/map.php:1044
+#: framework/pagebuilder/map.php:1085 framework/pagebuilder/map.php:1116
+#: framework/pagebuilder/map.php:1286 framework/pagebuilder/map.php:1340
+#: framework/pagebuilder/map.php:1388 framework/pagebuilder/map.php:1409
+#: framework/pagebuilder/map.php:1556 framework/pagebuilder/map.php:1601
+#: framework/pagebuilder/map.php:1750
+msgid "Extra class name"
+msgstr ""
+
+#: framework/pagebuilder/map.php:280 framework/pagebuilder/map.php:452
+#: framework/pagebuilder/map.php:645 framework/pagebuilder/map.php:807
+#: framework/pagebuilder/map.php:843 framework/pagebuilder/map.php:986
+#: framework/pagebuilder/map.php:1012 framework/pagebuilder/map.php:1046
+#: framework/pagebuilder/map.php:1087 framework/pagebuilder/map.php:1118
+#: framework/pagebuilder/map.php:1288 framework/pagebuilder/map.php:1342
+#: framework/pagebuilder/map.php:1390 framework/pagebuilder/map.php:1411
+#: framework/pagebuilder/map.php:1558 framework/pagebuilder/map.php:1603
+#: framework/pagebuilder/map.php:1752
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/pagebuilder/map.php:287
+msgid "Icon Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:294
+msgid "Icon Style"
+msgstr ""
+
+#: framework/pagebuilder/map.php:298
+msgid "Round"
+msgstr ""
+
+#: framework/pagebuilder/map.php:299
+msgid "Solid"
+msgstr ""
+
+#: framework/pagebuilder/map.php:301
+msgid "Round Border"
+msgstr ""
+
+#: framework/pagebuilder/map.php:310
+msgid "Left Icon"
+msgstr ""
+
+#: framework/pagebuilder/map.php:446 framework/pagebuilder/map.php:1272
+msgid "Insert content here ..."
+msgstr ""
+
+#: framework/pagebuilder/map.php:459
+msgid "Pricing Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:598 framework/pagebuilder/woocommerce.php:697
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: framework/pagebuilder/map.php:603 framework/pagebuilder/woocommerce.php:723
+msgid "Currency"
+msgstr ""
+
+#: framework/pagebuilder/map.php:608 framework/pagebuilder/map.php:1075
+#: framework/pagebuilder/map.php:1276
+msgid "Link"
+msgstr ""
+
+#: framework/pagebuilder/map.php:613 framework/pagebuilder/map.php:1080
+#: framework/pagebuilder/map.php:1281
+msgid "Link Title"
+msgstr ""
+
+#: framework/pagebuilder/map.php:618
+msgid "Pricing Feature"
+msgstr ""
+
+#: framework/pagebuilder/map.php:622
+msgid "Feature Line"
+msgstr ""
+
+#: framework/pagebuilder/map.php:652
+msgid "Fact Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:781 framework/pagebuilder/map.php:826
+#: framework/pagebuilder/map.php:979 framework/pagebuilder/map.php:1617
+#: framework/pagebuilder/map.php:1683
+msgid "Number"
+msgstr ""
+
+#: framework/pagebuilder/map.php:800
+msgid "Center"
+msgstr ""
+
+#: framework/pagebuilder/map.php:814
+msgid "Image Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:821 framework/pagebuilder/map.php:1060
+#: framework/pagebuilder/map.php:1101
+msgid "Image"
+msgstr ""
+
+#: framework/pagebuilder/map.php:850
+msgid "Round Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:993
+msgid "Progress Item"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1005
+msgid "Percent"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1019
+msgid "Alert"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1030
+msgid "Notice"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1031
+msgid "Warning"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1032
+msgid "Information"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1033
+msgid "Success"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1053
+msgid "Promotion Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1094
+msgid "Team Member"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1106 framework/pagebuilder/map.php:1368
+#: framework/pagebuilder/woocommerce.php:602
+#: woocommerce/single-product-reviews.php:72
+msgid "Name"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1111
+msgid "Position"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1125
+msgid "Service Box"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1295
+msgid "Timeline"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1302
+msgid "Timeline Item"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1306
+msgid "20/11/1991"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1314 framework/pagebuilder/woocommerce.php:80
+msgid "Date"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1320
+msgid "Date Description"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1349
+msgid "Testimonial"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1356
+msgid "Testimonial Item"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1360
+msgid "John Doe"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1374
+msgid "Company"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1397 framework/pagebuilder/map.php:1404
+msgid "Logo"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1418
+msgid "Divider"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1565
+msgid "Headline"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1572
+msgid "Before Title"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1584
+msgid "After Title"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1613 framework/pagebuilder/map.php:1678
+#: framework/pagebuilder/map.php:1725
+msgid "Vasca"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1625
+msgid "Overlay"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1634
+msgid "No Space"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1644
+msgid "Grid"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1645 framework/pagebuilder/woocommerce.php:188
+msgid "Carousel"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1646
+msgid "Filter"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1651
+msgid "Category ID List"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1656 framework/pagebuilder/map.php:1704
+msgid "Tag"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1664 framework/pagebuilder/map.php:1712
+#: framework/pagebuilder/map.php:1742
+msgid "2 Columns"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1665 framework/pagebuilder/map.php:1713
+#: framework/pagebuilder/map.php:1743
+msgid "3 Columns"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1666 framework/pagebuilder/map.php:1714
+#: framework/pagebuilder/map.php:1744
+msgid "4 Columns"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1667 framework/pagebuilder/map.php:1745
+msgid "6 Columns"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1691 framework/pagebuilder/woocommerce.php:189
+msgid "List"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1698
+msgid "Categories"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1722
+msgid "Gallery"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1729
+msgid "Images"
+msgstr ""
+
+#: framework/pagebuilder/map.php:1734
+msgid "Image Size"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:81
+#: framework/pagebuilder/woocommerce.php:696
+#: framework/pagebuilder/woocommerce.php:721
+msgid "ID"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:82
+msgid "Author"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:84
+msgid "Modified"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:85
+msgid "Random"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:86
+msgid "Comment count"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:87
+msgid "Menu order"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:92
+msgid "Descending"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:93
+msgid "Ascending"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:128
+msgid "Products Carousels"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:131
+#: framework/pagebuilder/woocommerce.php:180
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:132
+msgid "Lists recent products"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:136
+#: framework/pagebuilder/woocommerce.php:195
+msgid "Per page"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:139
+msgid ""
+"The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:146
+msgid ""
+"The columns attribute controls how many columns wide the products should be "
+"before wrapping."
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:150
+#: framework/pagebuilder/woocommerce.php:213
+msgid "Order by"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:153
+#: framework/pagebuilder/woocommerce.php:216
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:157
+#: framework/pagebuilder/woocommerce.php:220
+msgid "Order way"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:160
+#: framework/pagebuilder/woocommerce.php:223
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:177
+msgid "WooCommerce Category"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:181
+msgid "Show multiple products in a category"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:198
+msgid "How much items per page to show"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:205
+msgid "How much columns grid"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:227
+msgid "Category"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:230
+msgid "Product category list"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:457
+#: framework/pagebuilder/woocommerce.php:498
+#: framework/pagebuilder/woocommerce.php:561
+#: framework/pagebuilder/woocommerce.php:600
+#: framework/pagebuilder/woocommerce.php:684
+msgid "Id"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:461
+#: framework/pagebuilder/woocommerce.php:490
+#: framework/pagebuilder/woocommerce.php:553
+#: framework/pagebuilder/woocommerce.php:676
+msgid "Sku"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:604
+msgid "Slug"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:695
+msgid "SKU"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:698
+msgid "Regular Price"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:699
+msgid "Sale Price"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:700
+msgid "Price html"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:701
+msgid "Reviews count"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:702
+msgid "Short description"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:703
+msgid "Dimensions"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:704
+msgid "Rating count"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:705
+msgid "Weight"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:706
+msgid "Is on sale"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:707
+#: framework/pagebuilder/woocommerce.php:733
+msgid "Custom field"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:722
+msgid "Order number"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:724 woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:725 framework/theme-plugins.php:2516
+msgid "Status"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:726
+msgid "Payment method"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:727
+msgid "Billing address city"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:728
+msgid "Billing address country"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:729
+msgid "Shipping address city"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:730
+msgid "Shipping address country"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:731
+msgid "Customer Note"
+msgstr ""
+
+#: framework/pagebuilder/woocommerce.php:732
+msgid "Customer API"
+msgstr ""
+
+#: framework/theme-plugins.php:303
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/theme-plugins.php:304
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/theme-plugins.php:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/theme-plugins.php:306
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/theme-plugins.php:368
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/theme-plugins.php:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/theme-plugins.php:370 framework/theme-plugins.php:3048
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/theme-plugins.php:371
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/theme-plugins.php:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/theme-plugins.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/theme-plugins.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/theme-plugins.php:375
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/theme-plugins.php:376
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/theme-plugins.php:2214
+msgid "Required"
+msgstr ""
+
+#: framework/theme-plugins.php:2217
+msgid "Recommended"
+msgstr ""
+
+#: framework/theme-plugins.php:2234
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/theme-plugins.php:2238
+msgid "External Source"
+msgstr ""
+
+#: framework/theme-plugins.php:2242
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/theme-plugins.php:2261
+msgid "Not Installed"
+msgstr ""
+
+#: framework/theme-plugins.php:2265
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/theme-plugins.php:2273
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/theme-plugins.php:2276
+msgid "Requires Update"
+msgstr ""
+
+#: framework/theme-plugins.php:2279
+msgid "Update recommended"
+msgstr ""
+
+#: framework/theme-plugins.php:2449
+msgid "Installed version:"
+msgstr ""
+
+#: framework/theme-plugins.php:2457
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/theme-plugins.php:2469
+msgid "Available version:"
+msgstr ""
+
+#: framework/theme-plugins.php:2493
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/theme-plugins.php:2509
+msgid "Plugin"
+msgstr ""
+
+#: framework/theme-plugins.php:2510
+msgid "Source"
+msgstr ""
+
+#: framework/theme-plugins.php:2511
+msgid "Type"
+msgstr ""
+
+#: framework/theme-plugins.php:2515
+msgid "Version"
+msgstr ""
+
+#: framework/theme-plugins.php:2656
+msgid "Install"
+msgstr ""
+
+#: framework/theme-plugins.php:2662
+msgid "Update"
+msgstr ""
+
+#: framework/theme-plugins.php:2665
+msgid "Activate"
+msgstr ""
+
+#: framework/theme-plugins.php:2726
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/theme-plugins.php:2728
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/theme-plugins.php:3047
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/theme-plugins.php:3386
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/theme-plugins.php:3390
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/theme-plugins.php:3391
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/theme-plugins.php:3395
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/theme-plugins.php:3396
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/theme-plugins.php:3397
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/theme-plugins.php:3398
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/theme-plugins.php:3402
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/theme-plugins.php:3404
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/theme-plugins.php:3405
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/theme-posts.php:45 heading.php:28 heading.php:30 heading.php:32
+#: heading.php:36 heading.php:38 heading.php:40 heading.php:42 heading.php:44
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/theme-posts.php:46
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/theme-posts.php:51
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:43
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:167
+msgid "Appears in footer area."
+msgstr ""
+
+#: header.php:141
+msgid "Primary Menu"
+msgstr ""
+
+#: heading.php:26
+msgid "Content not found"
+msgstr ""
+
+#: heading.php:46
+msgid "Shop"
+msgstr ""
+
+#: heading.php:48
+msgid "Archives"
+msgstr ""
+
+#: heading.php:62
+msgid "Please try another keywords"
+msgstr ""
+
+#: heading.php:66
+msgid "Category Archives"
+msgstr ""
+
+#: heading.php:68
+msgid "Tag Archives"
+msgstr ""
+
+#: heading.php:70
+msgid "Search Results"
+msgstr ""
+
+#: page.php:27 single-portfolio.php:36 single.php:35
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: page.php:32 single-portfolio.php:41 single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: single-portfolio.php:69
+msgid "Published"
+msgstr ""
+
+#: single-portfolio.php:73
+msgid "Published by"
+msgstr ""
+
+#: single.php:26 template/content-default.php:11 template/content-masonry.php:9
+#: template/content-medium.php:9
+msgid "by"
+msgstr ""
+
+#: single.php:26 template/content-default.php:11 template/content-masonry.php:9
+#: template/content-medium.php:9
+msgid "on"
+msgstr ""
+
+#: single.php:27 template/content-default.php:12
+#: template/content-masonry.php:10 template/content-medium.php:10
+msgid "at"
+msgstr ""
+
+#: template/content-default.php:19 template/content-masonry.php:17
+#: template/content-medium.php:17
+msgid "read full article"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122 woocommerce/checkout/form-coupon.php:28
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details-customer.php:49
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details-customer.php:60
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:39
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:19
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:33
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:52
+#: woocommerce/order/order-details-customer.php:63
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/product-searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: woocommerce/product-searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

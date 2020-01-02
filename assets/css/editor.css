@@ -1,0 +1,11 @@
+.update-nag:before,
+.update-nag:after {
+  display: table;
+  content: " ";
+}
+.update-nag:after {
+    clear: both;
+}
+#setting-error-tgmpa {
+    display: block;
+}
